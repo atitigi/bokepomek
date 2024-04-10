@@ -1,4 +1,4 @@
-# bokep bispak 🎥
+# bokep omek 🎥
 
 An SSR video streaming frontend which uses doodstream.com as a backend. It is built using [Next.js](https://nextjs.org/) and [Tailwind CSS](https://tailwindcss.com/).
 
@@ -16,7 +16,7 @@ An SSR video streaming frontend which uses doodstream.com as a backend. It is bu
 
 ## Live Demo
 
-A live demo of the project is available at [https://bokepbocilsmp.pages.dev](https://bokepbocilsmp.pages.dev/).
+A live demo of the project is available at [https://bokepomek.pages.dev](https://bokepomek.pages.dev/).
 
 ## Configuration
 
