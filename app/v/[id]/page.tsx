@@ -87,7 +87,7 @@ const jsonLd = {
         name: `${file.title} - ${SITENAME}`,
         thumbnailUrl: file.splash_img,
         description: `${file.title} di ${SITENAME} Video Bokep Indo Jepang Barat Terbaru bocil jilbab smp mama sma hijab abg colmek film tante hot`,
-        url: `https://bokepbocilsmp.pages.dev/v/${file.filecode}`,
+        url: `https://bokepomek.pages.dev/v/${file.filecode}`,
         embedUrl: `https://${upstream}/e/${file.filecode}`,
         uploadDate: new Date(
             file.uploaded + ".000Z"
@@ -97,7 +97,7 @@ const jsonLd = {
                 userInteractionCount: `${file.views}`,
             interactionType: {
                 '@type': `WatchAction`,
-                target: `https://bokepbocilsmp.pages.dev/v/${file.filecode}`
+                target: `https://bokepomek.pages.dev/v/${file.filecode}`
             }  
         }
         }
@@ -107,25 +107,25 @@ const jsonLd = {
         headline: `${file.title} - ${SITENAME}`,
         image: file.splash_img,
         description: `${file.title} di ${SITENAME} Video Bokep Indo Jepang Barat Terbaru bocil jilbab smp mama sma hijab abg colmek film tante hot`,
-        url: `https://bokepbocilsmp.pages.dev/v/${file.filecode}`,
+        url: `https://bokepomek.pages.dev/v/${file.filecode}`,
         datePublished: new Date(
             file.uploaded + ".000Z"
         ).toISOString(),
         publisher: {
             '@type': 'Organization',
             name: `${SITENAME}`,
-            logo: 'https://bokepbocilsmp.pages.dev/favicon.ico'},
+            logo: 'https://bokepomek.pages.dev/favicon.ico'},
             author: {
                 '@type': 'Person',
                 name: 'admin',
-                url: 'https://bokepbocilsmp.pages.dev'
+                url: 'https://bokepomek.pages.dev'
               },
         interactionStatistic: {
             '@type': `InteractionCounter`,
                 userInteractionCount: `${file.views}`,
             interactionType: {
                 '@type': `ReadAction`,
-                target: `https://bokepbocilsmp.pages.dev/v/${file.filecode}`
+                target: `https://bokepomek.pages.dev/v/${file.filecode}`
             }  
         }
         }
