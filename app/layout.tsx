@@ -10,7 +10,7 @@ const font = Nunito({ subsets: ["latin"] });
 export const metadata: Metadata = {
     title: `${SITENAME} - Video Bokep Indo Viral Terbaru`,
     description: `${SITENAME} Video bokep indo jepang indonesia barat terbaru viral korea simontok china tante live sma paksa ngentot abg jilbab cewek bocil smp pijat pelajar.`,
-    metadataBase: new URL("https://bokepbocilsmp.pages.dev"),
+    metadataBase: new URL("https://bokepomek.pages.dev"),
     alternates: {
         canonical: `/`,
     },
@@ -22,7 +22,7 @@ export const metadata: Metadata = {
     },
     verification: {
         google: '5c5gbxFKn6qTgBpt7OX7FjLGcKr-_xrBp_w4vd2xS1o',
-        yandex: '6bc4175d505eb32b',
+        yandex: '9ca18ace0b3e3100',
     },
 };
 
@@ -38,12 +38,12 @@ export default function RootLayout({
         "@type": "Organization",
         "name": `${SITENAME}`,
         "description": `${SITENAME} Video bokep indo jepang indonesia barat terbaru viral korea simontok china tante live sma paksa ngentot abg jilbab cewek bocil smp pijat pelajar.`,
-        "logo": "https://bokepbocilsmp.pages.dev/favicon.ico",
-        "url": "https://bokepbocilsmp.pages.dev",
+        "logo": "https://bokepomek.pages.dev/favicon.ico",
+        "url": "https://bokepomek.pages.dev",
         "founder":{
             "@type":"Person",
             "name":"admin",
-            "url":"https://bokepbocilsmp.pages.dev"
+            "url":"https://bokepomek.pages.dev"
             },
             "foundingDate":"2024-01-09"
         }
@@ -51,22 +51,22 @@ export default function RootLayout({
             "@context": "https://schema.org",
         "@type": "WebPage",
         "name": `${SITENAME}`,
-        "url": "https://bokepbocilsmp.pages.dev",
+        "url": "https://bokepomek.pages.dev",
         "description": `${SITENAME} Video bokep indo jepang indonesia barat terbaru viral korea simontok china tante live sma paksa ngentot abg jilbab cewek bocil smp pijat pelajar.`,
-        "image": "https://bokepbocilsmp.pages.dev/favicon.ico",
+        "image": "https://bokepomek.pages.dev/favicon.ico",
         "potentialAction":{
             "@type":"ReadAction",
-            "target":"https://bokepbocilsmp.pages.dev"}
+            "target":"https://bokepomek.pages.dev"}
         }
         const jsonLd2 = {
             "@context": "https://schema.org",
         "@type": "WebSite",
         "name": `${SITENAME}`,
-        "url": "https://bokepbocilsmp.pages.dev",
+        "url": "https://bokepomek.pages.dev",
         "description": `${SITENAME} Video bokep indo jepang indonesia barat terbaru viral korea simontok china tante live sma paksa ngentot abg jilbab cewek bocil smp pijat pelajar.`,
         "potentialAction": { 
         "@type": "SearchAction", 
-          "target": "https://bokepbocilsmp.pages.dev/?q={search_term}", 
+          "target": "https://bokepomek.pages.dev/?q={search_term}", 
             "query-input": "required name=search_term"}
         }
     return (
